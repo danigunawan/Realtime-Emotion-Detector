@@ -16,7 +16,6 @@ How to run:
 $ git clone https://github.com/ranit-geek/Realtime-Emotion-Detector.git
 $ cd Realtime-Emotion-Detector
 $ npm install http-server -g
-$ http-server . -p 1337
+$ http-server . -p 1337      # server will up in http://localhost:1337/
 ```
 
-Then go to http://localhost:1337/
