@@ -1,0 +1,22 @@
+# Realtime Emotion Detector
+
+
+Realtime emotion detector built with Face API JS library which is an abstraction over tensorflow.
+
+
+> This project uses tinyFaceDetector model under the hood which is a very light weight library. 
+> this project detects faces and emotions directly from the webcam in the browser realtime
+
+![](resources/example.gif)
+
+
+How to run:
+
+```sh
+$ git clone https://github.com/ranit-geek/Realtime-Emotion-Detector.git
+$ cd Realtime-Emotion-Detector
+$ npm install http-server -g
+$ http-server . -p 1337
+```
+
+Then go to http://localhost:1337/
