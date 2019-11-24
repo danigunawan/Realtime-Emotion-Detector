@@ -19,3 +19,5 @@ $ npm install http-server -g
 $ http-server . -p 1337      # server will up in http://localhost:1337/
 ```
 
+Live demo : https://face-detector-realtime.herokuapp.com/
+Please be patient and wait for sometime to load the models as I am running this demo on Heroku free tier which is sadly not very fast.
